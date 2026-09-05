@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi, I'm Imran 👋
+# Hi, I'm Imran 👋
 
 I'm a Full-Stack Developer who enjoys building scalable applications and solving complex engineering problems.
 
