@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer who enjoys building scalable applications and solving complex engineering problems.
 
-I work across the stack, from building modern user interfaces with React, Next.js, TypeScript, and Tailwind CSS to designing backend systems with Java, Spring Boot, Node.js, PostgreSQL, Redis, and Apache Kafka.
+I work across the stack, from building modern user interfaces with React, TypeScript, and Tailwind CSS to designing backend systems with Java, Spring Boot, Node.js, PostgreSQL, Redis, and Apache Kafka.
 
 I particularly enjoy working on full-stack applications, microservices, distributed systems, and event-driven architectures, while continuously improving my understanding of system design and software engineering.
 
